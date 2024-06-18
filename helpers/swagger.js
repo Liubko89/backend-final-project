@@ -15,6 +15,9 @@ const options = {
       {
         url: `http://localhost:${PORT}/`,
       },
+      {
+        url: `https://backend-final-project-cut0.onrender.com/`,
+      },
     ],
   },
   apis: [
